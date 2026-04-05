@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-I'm Riley (aka **deathrashed**) — a music addict, occasional coder, and collector of noisy records.
 
-### 🎵 Currently Scrobbling / Listening
-
+### 
+[![Monochrome](https://img.shields.io/static/v1?style=for-the-badge&label=&message=MONOCHROME&color=000000&logo=https://raw.githubusercontent.com/deathrashed/gupload/main/Uploads/Images/icon-foreground.svg&logoColor=white)](https://monochrome.tf/user/@deathrashed)
 [![Last.fm](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=last.fm&logoColor=white&labelColor=black&color=D51007&label=Last.fm&query=%24.recenttracks.%40attr.total&url=https%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.getrecenttracks%26user%3Ddeathrashed%26api_key%3D5767c7b3a56fe504b8e54206dda30b31%26format%3Djson&suffix=%20Scrobbles)](https://www.last.fm/user/deathrashed)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1290812415?si=dbaba333c6304726)
 [![ListenBrainz](https://img.shields.io/static/v1?style=for-the-badge&logo=musicbrainz&logoColor=white&label=&message=LISTENBRAINZ&color=353070)](https://listenbrainz.org/user/deathrashed)
