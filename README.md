@@ -27,8 +27,15 @@
 
 [![Last.fm](https://img.shields.io/static/v1?style=for-the-badge&logo=last.fm&logoColor=D51007&label=&message=Last.fm&color=1e1e1e)](https://www.last.fm/user/deathrashed)
 [![Scrobbles](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=&labelColor=1e1e1e&color=1e1e1e&query=%24.recenttracks.%40attr.total&url=https%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.getrecenttracks%26user%3Ddeathrashed%26api_key%3D5767c7b3a56fe504b8e54206dda30b31%26format%3Djson&suffix=%20Scrobbled)](https://www.last.fm/user/deathrashed/library/artists)
+[![Artists](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=&labelColor=1e1e1e&color=1e1e1e&query=%24.topartists.%40attr.total&url=https%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.gettopartists%26user%3Ddeathrashed%26api_key%3D5767c7b3a56fe504b8e54206dda30b31%26format%3Djson&suffix=%20Artists)](https://www.last.fm/user/deathrashed)
+[![Now Playing](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=audiomack&logoColor=D51007&label=&labelColor=1e1e1e&color=1e1e1e&query=%24.recenttracks.track[0].name&url=https%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.getrecenttracks%26user%3Ddeathrashed%26api_key%3D5767c7b3a56fe504b8e54206dda30b31%26format%3Djson&suffix=%20)](https://www.last.fm/user/deathrashed)
 
 
+
+
+
+
+![forthebadge](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=last.fm&secondaryLabel=Scrobbled&&primaryBGColor=%231e1e1e&primaryTextColor=%23FFFFFF&secondaryBGColor=%231e1e1e&secondaryTextColor=%23FFFFFF&primaryFontSize=11&primaryFontWeight=600&primaryLetterSpacing=1&primaryFontFamily=Arial&primaryTextTransform=uppercase&secondaryFontSize=11&secondaryFontWeight=600&secondaryLetterSpacing=1&secondaryFontFamily=Arial&secondaryTextTransform=uppercase&primaryIcon=lastdotfm&primaryIconColor=%23d60f07&primaryIconSize=17&primaryIconPosition=right&secondaryIcon=audiomack&secondaryIconColor=%23d60f07&secondaryIconSize=17&secondaryIconPosition=left&primaryTextShadowColor=%23000000)
 
 <details>
 <summary><strong></strong></summary>
