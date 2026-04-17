@@ -1,16 +1,19 @@
+
+
 <div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&height=90&color=181818&section=header&textBg=false&reversal=false&fontAlignY=100&fontAlign=100&descAlignY=100&descAlign=100)
 
-<img width="324" height="324" alt="dog-cachorro" src="https://github.com/user-attachments/assets/856e1d8b-2d40-4fc7-b830-5b27e4b41396" />
-
- 
-—
 
 [![Linktree](https://img.shields.io/badge/LinkTree-1e1e1e?style=for-the-badge&logo=linktree&logoColor=44E660)](https://linktr.ee/deathrashed)
 [![YouTube](https://img.shields.io/badge/YouTube-1e1e1e?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@dethrashed)
 [![Instagram](https://img.shields.io/badge/Instagram-1e1e1e?style=for-the-badge&logo=Instagram&logoColor=FC0177)](https://www.instagram.com/deathrashed)
 [![Facebook](https://img.shields.io/badge/Facebook-1e1e1e?style=for-the-badge&logo=Facebook&logoColor=1877F2)](https://www.facebook.com/rileydethrash)
 [![TikTok](https://img.shields.io/badge/TikTok-1e1e1e?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@deathrashed)
+[![Rileysearch](https://img.shields.io/badge/Rileysearch-1e1e1e?style=for-the-badge&logo=Netlify&logoColor=yellow)](https://rileysearch.netlify.app/)
+[![pCloud](https://img.shields.io/badge/pCloud-1e1e1e?style=for-the-badge&logo=icloud&logoColor=18BED0)](https://filedn.eu/lHkAJuzJk4MQt609nhleEAf/)
+
+
 
 [![Spotify](https://img.shields.io/badge/Spotify-1e1e1e?style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/1290812415?si=dbaba333c6304726)
 [![ListenBrainz](https://img.shields.io/badge/ListenBrainz-1e1e1e?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTU0IiBoZWlnaHQ9IjE1NCIgdmlld0JveD0iMCAwIDE1NC4yOSAxNTQuMjkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTMuNjQgLTUuMTQpIj48cG9seWdvbiBmaWxsPSIjZWI3NDNiIiBwb2ludHM9IjEzMS4zNiwxMTEuODIgMTMxLjM2LDM3LjgyIDcwLjM1LDIuODIgNzAuMzUsMTQ2LjgyIi8+PHBvbHlnb24gZmlsbD0iIzM1MzA3MCIgcG9pbnRzPSI0LjM1LDExMS44MiA2NS4zNSwxNDYuODIgNjUuMzUsMi44MiA0LjM1LDM3LjgyIi8+PHBhdGggZmlsbD0iI2ZmZmVkYiIgZD0iTTEwMy41MyAxMDguOTNjLTEuMTctMS4zNi0yLjg2LTIuMTQtNC42NS0yLjE0LTEuNDYgMC0yLjg4LjUzLTMuOTggMS40OC0xLjYxIDEuMzgtMi4zMyAzLjQzLTIuMDkgNS40LTEuOTUuNy00LjI2IDEuMzctNS4zMyAxLjMzLS44Mi0uMDQtMS4zLS4zNS0yLjIyLS45Ny0xLjE3LS44LTIuNDItMS41MS00LjE1LTEuODUgMi45NC0yLjc2IDYuMDEtNi44MyA4LjU4LTEyLjgzIDIuMDYtLjA4IDMuOTgtMS4xOSA1LjA0LTIuOTcgMS43My0yLjkgLjc3LTYuNjYtMi4xMi04LjM5LS45NS0uNTctMi4wMy0uODYtMy4xMy0uODYtMi4xNSAwLTQuMTYgMS4xNC01LjI2IDIuOTktLjg0IDEuNDEtMS4wOCAzLjA1LS42OCA0LjY0LjM1IDEuMzkgMS4xNiAyLjU5IDIuMyAzLjQzLTQuMDUgOS4yMi05LjIyIDEzLjA4LTEyLjU3IDE0LjY5bC0uMzYuMTdjLTEuMTkuNTMtMi4wNS43LTIuNTYuODF2NGMuMjgtLjAzIDEuODktLjEyIDQuMjUtMS4xOSA1LjM1LTEuMzYgNi44NC0uMzUgOC40MS43MSAxLjAyLjY5IDIuMjkgMS41NSA0LjI2IDEuNjZoLjMxYzIuMTEgMCA1LjE3LTEuMDIgNy4wMi0xLjcyIDEuMTQgMS4xMiAyLjY4IDEuNzUgNC4yOSAxLjc1IDEuNDYgMC0yLjg4LS41Mi0zLjk4LTEuNDggMS4yNC0xLjA2IDEuOTktMi41NSAyLjEyLTQuMTguMTMtMS42My0uMzktMy4yMS0xLjQ2LTQuNDV6bS0xNS44Ny0xNi43OGMuMzktLjY1IDEuMDctMS4wMyAxLjgyLTEuMDMuMzggMCAuNzUuMSAxLjA4LjMgMSAxLjM4IDIuMzMgMy40MyAyLjA5IDUuNC0xLjk1LjctNC4yNiAxLjM3LTUuMzMgMS4zMy0uODItLjA0LTEuMy0uMzUtMi4yMi0uOTctMS4xNy0uOC0yLjQyLTEuNTEtNC4xNS0xLjg1IDIuOTQtMi43NiA2LjAxLTYuODMgOC41OC0xMi44MyAyLjA2LS4wOCAzLjk4LTEuMTkgNS4wNC0yLjk3IDEuNzMtMi40IC43Ny02LjY2LTIuMTItOC4zOS0uOTUtLjU3LTIuMDMtLjg2LTMuMTMtLjg2LTIuMTUgMC00LjE2IDEuMTQtNS4yNiAyLjk5LS44NCAxLjQxLTEuMDggMy4wNS0uNjggNC42NC4zNSAxLjM5IDEuMTYgMi41OSAyLjMgMy40My00LjA1IDkuMjItOS4yMiAxMy4wOC0xMi41NyAxNC42OWwtLjM2LjE3Yy0xLjE5LjUzLTIuMDUuNy0yLjU2LjgxdjRjLjI4LS4wMyAxLjg5LS4xMiA0LjI1LTEuMTkgNS4zNS0xLjM2IDYuODQtLjM1IDguNDEuNzEgMS4wMi42OSAyLjI5IDEuNTUgNC4yNiAxLjY2aC4zMWMyLjExIDAgNS4xNy0xLjAyIDcuMDItMS43MiAxLjE0IDEuMTIgMi42OCAxLjc1IDQuMjkgMS43NSAxLjQ2IDAtMi44OC0uNTItMy45OC0xLjQ4IDEuMjQtMS4wNiAxLjk5LTIuNTUgMi4xMi00LjE4LjEzLTEuNjMtLjM5LTMuMjEtMS40Ni00LjQ1em0tMTUuODctMTYuNzhjLjM5LS42NSAxLjA3LTEuMDMgMS44Mi0xLjAzLjM4IDAgLjc1LjEgMS4wOC4zIDAgMCAwIDAgMCAweiIvPjwvZz48L3N2Zz4=)](https://listenbrainz.org/user/deathrashed)
@@ -21,27 +24,27 @@
 [![RateYourMusic](https://img.shields.io/badge/RYM-1e1e1e?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTQzIiBoZWlnaHQ9IjE0MyIgdmlld0JveD0iMCAwIDE0MyAxNDMiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTg1Ljc5MjEgNDMuMDEwNkM5Ni42NTA5IDQ3LjM5NTkgMTE1Ljg2MyA0Ni43Njk1IDEyNy43NjYgNDUuNzI1NEMxMTcuOTUxIDI0LjIxNjUgOTYuMjMzMyA5LjE4MTIzIDcxLjE3NDQgOS4xODEyM0M1OS4wNjI3IDkuMTgxMjMgNDcuOTk1IDEyLjUyMjQgMzguMzg5MiAxOC41NzgzQzU5LjI3MTUgOC43NjM1OCA2OS4yOTUwIDM2LjExOTUgODUuNzkyMSA0My4wMTA2WiIgZmlsbD0iI0U2RTRFNSIvPjxwYXRoIGQ9Ik0xNDIuMTc0IDcxLjQxMDZDMTQyLjE3NCAxMTAuNjY5IDExMC40MzMgMTQyLjQxMSA3MS4xNzM4IDE0Mi40MTFDMzEuOTE1IDE0Mi40MTEgMC4xNzM4MjggMTEwLjY2OSAwLjE3MzgyOCA3MS40MTA2QzAuMTczODI4IDMyLjE1MTggMzEuOTE1IDAuNDEwNjQ1IDcxLjE3MzggMC40MTA2NDVDMTEwLjQzMyAwLjQxMDY0NSAxNDIuMTc0IDMyLjM2MDYgMTQyLjE3NCA3MS40MTA2WiIgZmlsbD0iI0U2RTRFNSIvPjxwYXRoIGQ9Ik0xMDcuNzE3IDY3Ljg2MDlDMTE3LjMyMyA2OC40ODc0IDEyNi4wOTMgNjUuOTgxNSAxMzIuNzc2IDYzLjA1ODBDMTMxLjk0MCA1Ni43OTMzIDEzMC4yNzAgNTAuOTQ2MyAxMjcuNzY0IDQ1LjUxNjlDMTE1Ljg2MSA0Ni41NjEwIDk2LjY0OTIgNDcuMTg3NCA4NS43OTA0IDQyLjgwMjFDNjkuMjkzNCAzNS45MTEwIDU4LjQzNDYgOC4xMzc1NCAzOC4zODc1IDE4LjM2OTlDMjAuNjM3NSAyOS40Mzc1IDguOTQzNDEgNDguODU4MCA4Ljk0MzQxIDcxLjQxMDlDOC45NDM0MSA3Ny4yNTgwIDkuNzc4NjggODIuODk2MiAxMS4yNDA0IDg4LjExNjhDMjEuMDU1MSA3OS4zNDYyIDQxLjcyODcgNjIuODQ5MiA2MC4zMTQwIDU3LjgzNzRDODUuMzcyOCA1MS4xNTUxIDg3LjA0MzQgNjYuNjA4MCAxMDcuNzE3IDY3Ljg2MDlaIiBmaWxsPSIjMjM5MkNDIi8+PHBhdGggZD0iTTEzMi43NzcgNjMuMjY2N0MxMjYuMDk1IDY2LjE5MDIgMTE3LjMyNCA2OC40ODcyIDEwNy43MTggNjguMDY5NkM4Ny4wNDQ3IDY2LjgxNjcgODUuMzc0MiA1MS4xNTQ5IDYwLjEwNjUgNTguMDQ2MUM0MS43MzAwIDYzLjA1NzkgMjEuMDU2NSA3OS43NjM3IDExLjAzMzAgODguMzI1NUMxMy4xMjEyIDk1LjQyNTUgMTYuMjUzNiAxMDIuMTA4IDIwLjYzODkgMTA4LjE2NEMyNy4zMjEyIDEwMi41MjUgMzUuNDY1MyA5Ny4zMDQ5IDQ0LjQ0NDcgOTUuNDI1NUM3MC4xMzAwIDg5Ljk5NjAgNzAuMTMwMCAxMDguMzcyIDkxLjg0NzcgMTA1Ljg2N0MxMDMuNzUxIDEwNC40MDUgMTIwLjAzOSA5Mi45MTk2IDEzMi4zNTkgODIuODk2MUMxMzIuOTg2IDc5LjM0NjEgMTMzLjQwNCA3NS41ODczIDEzMy40MDQgNzEuODI4NEMxMzMuNDA0IDY4LjY5NjEgMTMzLjE5NSA2NS45ODE0IDEzMi43NzcgNjMuMjY2N1oiIGZpbGw9IiMzMzUxOUYiLz48cGF0aCBkPSJNNDQuNDQ0MyA5NS4yMTY0QzM1LjQ2NDkgOTcuMDk1OCAyNy4zMjA4IDEwMi4zMTYgMjAuNjM4NCAxMDcuOTU1QzMxLjkxNDkgMTIzLjYxNiA1MC4yOTEzIDEzMy44NDkgNzEuMTczNyAxMzMuODQ5QzEwMS44NzEgMTMzLjg0OSAxMjcuMTM4IDExMS43MTMgMTMyLjM1OSA4Mi42ODcwQzEyMC4wMzggOTIuNzEwNiAxMDMuNzUwIDEwNC4xOTYgOTEuODQ3MiAxMDUuNjU4QzcwLjEyOTYgMTA4LjE2MyA3MC4yMjk2IDkwLjU3ODIgNDQuNDQ0MyA5NS4yMTY0WiIgZmlsbD0iIzFCM0I2QyIvPjxwYXRoIGQ9Ik05Ny4yNzcxIDgzLjEwNDdDOTkuNzgzMCA4OS4zNjk0IDk3LjQ4NTkgOTYuMjYwNiA5MS42Mzg5IDk4Ljc2NjVDODYuMDAwNyAxMDEuMDY0IDc5LjMxODQgOTcuOTMxMSA3Ni42MDM3IDkxLjg3NTJDNzQuMDk3OCA4NS42MTA1IDc2LjM5NDggNzguNzE5NCA4Mi4yNDE5IDc2LjIxMzVDODguMDg4OSA3My43MDc2IDk0Ljc3MTIgNzYuODQwMCA5Ny4yNzcxIDgzLjEwNDdaIiBmaWxsPSIjMUIzQjZDIi8+PC9zdmc+)](https://rateyourmusic.com/~deathrashed)
 [![Monochrome.tf](https://img.shields.io/badge/Monochrome.tf-%23222222.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMTQuNzUgMTQuNzUgNzAuNSA3MC41IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJtMzguMjUgMTQuNzVoNDd2NDdoLTIzLjV2LTIzLjVoLTIzLjV6bS0yMy41IDIzLjVoMjMuNXYyMy41aDIzLjV2MjMuNWgtNDd6Ii8+PC9zdmc+)](https://monochrome.tf/user/@riley.mp3)
 
-[![Rileysearch](https://img.shields.io/badge/Rileysearch-1e1e1e?style=for-the-badge&logo=Netlify&logoColor=yellow)](https://rileysearch.netlify.app/)
-[![pCloud](https://img.shields.io/badge/pCloud-1e1e1e?style=for-the-badge&logo=icloud&logoColor=18BED0)](https://filedn.eu/lHkAJuzJk4MQt609nhleEAf/)
 
 
+[![Scrobbles](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=audiomack&logoColor=D51007&label=&labelColor=1e1e1e&color=1e1e1e&query=%24.recenttracks.%40attr.total&url=https%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.getrecenttracks%26user%3Ddeathrashed%26api_key%3D5767c7b3a56fe504b8e54206dda30b31%26format%3Djson&suffix=%20Scrobbled)](https://www.last.fm/user/deathrashed/library/artists)
 [![Last.fm](https://img.shields.io/static/v1?style=for-the-badge&logo=last.fm&logoColor=D51007&label=&message=Last.fm&color=1e1e1e)](https://www.last.fm/user/deathrashed)
-[![Scrobbles](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=&labelColor=1e1e1e&color=1e1e1e&query=%24.recenttracks.%40attr.total&url=https%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.getrecenttracks%26user%3Ddeathrashed%26api_key%3D5767c7b3a56fe504b8e54206dda30b31%26format%3Djson&suffix=%20Scrobbled)](https://www.last.fm/user/deathrashed/library/artists)
-[![Artists](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=&labelColor=1e1e1e&color=1e1e1e&query=%24.topartists.%40attr.total&url=https%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.gettopartists%26user%3Ddeathrashed%26api_key%3D5767c7b3a56fe504b8e54206dda30b31%26format%3Djson&suffix=%20Artists)](https://www.last.fm/user/deathrashed)
-[![Now Playing](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=audiomack&logoColor=D51007&label=&labelColor=1e1e1e&color=1e1e1e&query=%24.recenttracks.track[0].name&url=https%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.getrecenttracks%26user%3Ddeathrashed%26api_key%3D5767c7b3a56fe504b8e54206dda30b31%26format%3Djson&suffix=%20)](https://www.last.fm/user/deathrashed)
 
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1290812415&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1e1e1e&interchange=false&profanity=false&mode=dark&bar_color=1cba55&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1290812415&redirect=true)
 
-
-
-
-![forthebadge](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=last.fm&secondaryLabel=Scrobbled&&primaryBGColor=%231e1e1e&primaryTextColor=%23FFFFFF&secondaryBGColor=%231e1e1e&secondaryTextColor=%23FFFFFF&primaryFontSize=11&primaryFontWeight=600&primaryLetterSpacing=1&primaryFontFamily=Arial&primaryTextTransform=uppercase&secondaryFontSize=11&secondaryFontWeight=600&secondaryLetterSpacing=1&secondaryFontFamily=Arial&secondaryTextTransform=uppercase&primaryIcon=lastdotfm&primaryIconColor=%23d60f07&primaryIconSize=17&primaryIconPosition=right&secondaryIcon=audiomack&secondaryIconColor=%23d60f07&secondaryIconSize=17&secondaryIconPosition=left&primaryTextShadowColor=%23000000)
+<img width="340" height="" alt="dog-cachorro" src="https://github.com/user-attachments/assets/856e1d8b-2d40-4fc7-b830-5b27e4b41396" />
 
 <details>
-<summary><strong></strong></summary>
+<summary><strong> 
+ 
+</strong></summary>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1290812415&count=10&width=600)
+
+---
 
 <img width="1280" height="" alt="rileys-environment-stack" src="https://github.com/user-attachments/assets/20f6346f-c76a-4bb4-8e77-723b43f8ebe2" />
 
 </details>
 
-
+![Footer](https://capsule-render.vercel.app/api?type=venom&height=200&color=181818&text=☢︎&section=header&fontSize=125&textBg=false&fontColor=FFD846&stroke=1e1e1e&strokeWidth=2&reversal=false&fontAlignY=51)
