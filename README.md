@@ -1,12 +1,10 @@
 <div align="center">
 
 
-<img width="375" height="" alt="face-transparent-cropped" src="https://github.com/user-attachments/assets/91910345-3b6a-462a-8a2f-eb9ff6c3e654" />
+<img width="324" height="324" alt="dog-cachorro-ezgif com-optimize" src="https://github.com/user-attachments/assets/90cc5eb1-c6d3-4486-8f66-d256ffb012e3" />
 
 
-
-
-
+---
 
 [![YouTube](https://img.shields.io/badge/YouTube-1e1e1e?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@dethrashed)
 [![Instagram](https://img.shields.io/badge/Instagram-1e1e1e?style=for-the-badge&logo=Instagram&logoColor=FC0177)](https://www.instagram.com/deathrashed)
@@ -24,6 +22,8 @@
 [![Monochrome.tf](https://img.shields.io/badge/Monochrome.tf-%23222222.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMTQuNzUgMTQuNzUgNzAuNSA3MC41IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJtMzguMjUgMTQuNzVoNDd2NDdoLTIzLjV2LTIzLjVoLTIzLjV6bS0yMy41IDIzLjVoMjMuNXYyMy41aDIzLjV2MjMuNWgtNDd6Ii8+PC9zdmc+)](https://monochrome.tf/user/@riley.mp3)
 
 [![Last.fm](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=last.fm&logoColor=D51007&labelColor=1e1e1e&color=1e1e1e&label=Last.fm&query=%24.recenttracks.%40attr.total&url=https%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.getrecenttracks%26user%3Ddeathrashed%26api_key%3D5767c7b3a56fe504b8e54206dda30b31%26format%3Djson&suffix=%20Scrobbles)](https://www.last.fm/user/deathrashed)
+
+---
 
 <details>
 <summary><strong></strong></summary>
