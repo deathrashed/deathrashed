@@ -1,38 +1,35 @@
-## Hi there 👋
+<div align="center">
 
 
-### 
-[![Monochrome](https://img.shields.io/static/v1?style=for-the-badge&label=&message=MONOCHROME&color=000000&logo=https://raw.githubusercontent.com/deathrashed/gupload/main/Uploads/Images/icon-foreground.svg&logoColor=white)](https://monochrome.tf/user/@deathrashed)
-[![Last.fm](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=last.fm&logoColor=white&labelColor=black&color=D51007&label=Last.fm&query=%24.recenttracks.%40attr.total&url=https%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.getrecenttracks%26user%3Ddeathrashed%26api_key%3D5767c7b3a56fe504b8e54206dda30b31%26format%3Djson&suffix=%20Scrobbles)](https://www.last.fm/user/deathrashed)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1290812415?si=dbaba333c6304726)
-[![ListenBrainz](https://img.shields.io/static/v1?style=for-the-badge&logo=musicbrainz&logoColor=white&label=&message=LISTENBRAINZ&color=353070)](https://listenbrainz.org/user/deathrashed)
-[![Bandcamp](https://img.shields.io/badge/Bandcamp-1DA0C3?style=for-the-badge&logo=bandcamp&logoColor=white)](https://bandcamp.com/deathrashed)
-[![RateYourMusic](https://img.shields.io/static/v1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwzTDEyLDNBOSw5IDAgMCwxIDIxLDEyTDIxLDEyQTksMCAwIDEgMTIsMjFMMTIsMjFBOSwwIDAgMSAzLDEyTDMsMTJBOSwwIDAgMSAxMiwzIE0xMi41LDlDMTAuNSw5IDksMTAuMSA5LDExLjVBMi41LDIuNSAwIDAsMCAxMS41LDE0QzEyLjUsMTQgMTMuMiwxMy43IDE0LDEzVjE3SDEyVjE1SDEwVjE3SDhWMTFIOVYxMEgxMVY5SDE0VjExSDEyLjVBMC41LDAuNSAwIDAsMCAxMiwxMS41QTAuNSwwLjUgMCAwLDAgMTIuNSwxMkgxNFYxMy41QTUsNSAwIDAsMSAxMC41LDE1QTMuNSwzLjUgMCAwLDEgNywxMS41QTMuNSwzLjUgMCAwLDEgMTAuNSw4SDE1VjlIMTIuNVoiIC8+PC9zdmc+&logoColor=white&label=&message=RYM&color=122F6C)](https://rateyourmusic.com/~deathrashed)
-[![Discogs](https://img.shields.io/badge/Discogs-333333?style=for-the-badge&logo=discogs&logoColor=white)](https://www.discogs.com/user/deathrashed)
-[![SoundCloud](https://img.shields.io/badge/Soundcloud-FF3300?style=for-the-badge&logo=Soundcloud&logoColor=white)](https://soundcloud.com/deathrashed)
-[![Deezer](https://img.shields.io/static/v1?style=for-the-badge&logo=deezer&logoColor=white&label=&message=DEEZER&color=8F05FF)](https://www.deezer.com/en/profile/5830963411)
+<img width="375" height="" alt="face-transparent-cropped" src="https://github.com/user-attachments/assets/91910345-3b6a-462a-8a2f-eb9ff6c3e654" />
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@dethrashed)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/deathrashed)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/rileydethrash)
-[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/deathrashed)
 
-### 🌌 About Me
 
-- 🎸 Heavy into **music** — from raw noise and metal to indie, electronic, and everything in between. Always hunting for new sounds.
-- 💻 I code (mostly for fun/personal projects) and love combining tech with music (playlists, scrapers, listening stats, etc.).
-- 📍 Based in Melbourne, Australia.
-- 🔭 Currently working on: [add your current projects or just say "various personal repos + music-related scripts"]
-- 🌱 Learning: [whatever you're into — Rust? web dev? audio processing?]
 
-### 💬 Ask me about
-- Obscure albums, vinyl hunting, or why your favourite band is mid
-- Building tools around music data (Last.fm, Spotify API, etc.)
-- Anything tech + music related
 
-### 📫 How to reach me
-Best way is via [Linktree](https://linktr.ee/deathrashed) or just drop a comment on one of my repos!
 
----
+[![YouTube](https://img.shields.io/badge/YouTube-1e1e1e?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@dethrashed)
+[![Instagram](https://img.shields.io/badge/Instagram-1e1e1e?style=for-the-badge&logo=Instagram&logoColor=FC0177)](https://www.instagram.com/deathrashed)
+[![Facebook](https://img.shields.io/badge/Facebook-1e1e1e?style=for-the-badge&logo=Facebook&logoColor=1877F2)](https://www.facebook.com/rileydethrash)
+[![Linktree](https://img.shields.io/badge/LinkTree-1e1e1e?style=for-the-badge&logo=linktree&logoColor=44E660)](https://linktr.ee/deathrashed)
+[![Linktree](https://img.shields.io/badge/TikTok-1e1e1e?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@deathrashed)
 
-*Made with noise, caffeine, and too many scrobbles.*
+[![Spotify](https://img.shields.io/badge/Spotify-1e1e1e?style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/1290812415?si=dbaba333c6304726)
+[![ListenBrainz](https://img.shields.io/badge/ListenBrainz-1e1e1e?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTU0IiBoZWlnaHQ9IjE1NCIgdmlld0JveD0iMCAwIDE1NC4yOSAxNTQuMjkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTMuNjQgLTUuMTQpIj48cG9seWdvbiBmaWxsPSIjZWI3NDNiIiBwb2ludHM9IjEzMS4zNiwxMTEuODIgMTMxLjM2LDM3LjgyIDcwLjM1LDIuODIgNzAuMzUsMTQ2LjgyIi8+PHBvbHlnb24gZmlsbD0iIzM1MzA3MCIgcG9pbnRzPSI0LjM1LDExMS44MiA2NS4zNSwxNDYuODIgNjUuMzUsMi44MiA0LjM1LDM3LjgyIi8+PHBhdGggZmlsbD0iI2ZmZmVkYiIgZD0iTTEwMy41MyAxMDguOTNjLTEuMTctMS4zNi0yLjg2LTIuMTQtNC42NS0yLjE0LTEuNDYgMC0yLjg4LjUzLTMuOTggMS40OC0xLjYxIDEuMzgtMi4zMyAzLjQzLTIuMDkgNS40LTEuOTUuNy00LjI2IDEuMzctNS4zMyAxLjMzLS44Mi0uMDQtMS4zLS4zNS0yLjIyLS45Ny0xLjE3LS44LTIuNDItMS41MS00LjE1LTEuODUgMi45NC0yLjc2IDYuMDEtNi44MyA4LjU4LTEyLjgzIDIuMDYtLjA4IDMuOTgtMS4xOSA1LjA0LTIuOTcgMS43My0yLjkgLjc3LTYuNjYtMi4xMi04LjM5LS45NS0uNTctMi4wMy0uODYtMy4xMy0uODYtMi4xNSAwLTQuMTYgMS4xNC01LjI2IDIuOTktLjg0IDEuNDEtMS4wOCAzLjA1LS42OCA0LjY0LjM1IDEuMzkgMS4xNiAyLjU5IDIuMyAzLjQzLTQuMDUgOS4yMi05LjIyIDEzLjA4LTEyLjU3IDE0LjY5bC0uMzYuMTdjLTEuMTkuNTMtMi4wNS43LTIuNTYuODF2NGMuMjgtLjAzIDEuODktLjEyIDQuMjUtMS4xOSA1LjM1LTEuMzYgNi44NC0uMzUgOC40MS43MSAxLjAyLjY5IDIuMjkgMS41NSA0LjI2IDEuNjZoLjMxYzIuMTEgMCA1LjE3LTEuMDIgNy4wMi0xLjcyIDEuMTQgMS4xMiAyLjY4IDEuNzUgNC4yOSAxLjc1IDEuNDYgMC0yLjg4LS41Mi0zLjk4LTEuNDggMS4yNC0xLjA2IDEuOTktMi41NSAyLjEyLTQuMTguMTMtMS42My0uMzktMy4yMS0xLjQ2LTQuNDV6bS0xNS44Ny0xNi43OGMuMzktLjY1IDEuMDctMS4wMyAxLjgyLTEuMDMuMzggMCAuNzUuMSAxLjA4LjMgMSAxLjM4IDIuMzMgMy40MyAyLjA5IDUuNC0xLjk1LjctNC4yNiAxLjM3LTUuMzMgMS4zMy0uODItLjA0LTEuMy0uMzUtMi4yMi0uOTctMS4xNy0uOC0yLjQyLTEuNTEtNC4xNS0xLjg1IDIuOTQtMi43NiA2LjAxLTYuODMgOC41OC0xMi44MyAyLjA2LS4wOCAzLjk4LTEuMTkgNS4wNC0yLjk3IDEuNzMtMi40IC43Ny02LjY2LTIuMTItOC4zOS0uOTUtLjU3LTIuMDMtLjg2LTMuMTMtLjg2LTIuMTUgMC00LjE2IDEuMTQtNS4yNiAyLjk5LS44NCAxLjQxLTEuMDggMy4wNS0uNjggNC42NC4zNSAxLjM5IDEuMTYgMi41OSAyLjMgMy40My00LjA1IDkuMjItOS4yMiAxMy4wOC0xMi41NyAxNC42OWwtLjM2LjE3Yy0xLjE5LjUzLTIuMDUuNy0yLjU2LjgxdjRjLjI4LS4wMyAxLjg5LS4xMiA0LjI1LTEuMTkgNS4zNS0xLjM2IDYuODQtLjM1IDguNDEuNzEgMS4wMi42OSAyLjI5IDEuNTUgNC4yNiAxLjY2aC4zMWMyLjExIDAgNS4xNy0xLjAyIDcuMDItMS43MiAxLjE0IDEuMTIgMi42OCAxLjc1IDQuMjkgMS43NSAxLjQ2IDAtMi44OC0uNTItMy45OC0xLjQ4IDEuMjQtMS4wNiAxLjk5LTIuNTUgMi4xMi00LjE4LjEzLTEuNjMtLjM5LTMuMjEtMS40Ni00LjQ1em0tMTUuODctMTYuNzhjLjM5LS42NSAxLjA3LTEuMDMgMS44Mi0xLjAzLjM4IDAgLjc1LjEgMS4wOC4zIDAgMCAwIDAgMCAweiIvPjwvZz48L3N2Zz4=)](https://listenbrainz.org/user/deathrashed)
+[![Bandcamp](https://img.shields.io/badge/Bandcamp-1e1e1e?style=for-the-badge&logo=bandcamp&logoColor=1DA0C3)](https://bandcamp.com/deathrashed)
+[![Discogs](https://img.shields.io/badge/Discogs-1e1e1e?style=for-the-badge&logo=discogs&logoColor=white)](https://www.discogs.com/user/deathrashed)
+[![SoundCloud](https://img.shields.io/badge/Soundcloud-1e1e1e?style=for-the-badge&logo=Soundcloud&logoColor=FF3300)](https://soundcloud.com/deathrashed)
+[![Deezer](https://img.shields.io/static/v1?style=for-the-badge&logo=deezer&logoColor=8F05FF&label=&message=DEEZER&color=1e1e1e)](https://www.deezer.com/en/profile/5830963411)
+[![RateYourMusic](https://img.shields.io/badge/RYM-1e1e1e?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTQzIiBoZWlnaHQ9IjE0MyIgdmlld0JveD0iMCAwIDE0MyAxNDMiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTg1Ljc5MjEgNDMuMDEwNkM5Ni42NTA5IDQ3LjM5NTkgMTE1Ljg2MyA0Ni43Njk1IDEyNy43NjYgNDUuNzI1NEMxMTcuOTUxIDI0LjIxNjUgOTYuMjMzMyA5LjE4MTIzIDcxLjE3NDQgOS4xODEyM0M1OS4wNjI3IDkuMTgxMjMgNDcuOTk1IDEyLjUyMjQgMzguMzg5MiAxOC41NzgzQzU5LjI3MTUgOC43NjM1OCA2OS4yOTUwIDM2LjExOTUgODUuNzkyMSA0My4wMTA2WiIgZmlsbD0iI0U2RTRFNSIvPjxwYXRoIGQ9Ik0xNDIuMTc0IDcxLjQxMDZDMTQyLjE3NCAxMTAuNjY5IDExMC40MzMgMTQyLjQxMSA3MS4xNzM4IDE0Mi40MTFDMzEuOTE1IDE0Mi40MTEgMC4xNzM4MjggMTEwLjY2OSAwLjE3MzgyOCA3MS40MTA2QzAuMTczODI4IDMyLjE1MTggMzEuOTE1IDAuNDEwNjQ1IDcxLjE3MzggMC40MTA2NDVDMTEwLjQzMyAwLjQxMDY0NSAxNDIuMTc0IDMyLjM2MDYgMTQyLjE3NCA3MS40MTA2WiIgZmlsbD0iI0U2RTRFNSIvPjxwYXRoIGQ9Ik0xMDcuNzE3IDY3Ljg2MDlDMTE3LjMyMyA2OC40ODc0IDEyNi4wOTMgNjUuOTgxNSAxMzIuNzc2IDYzLjA1ODBDMTMxLjk0MCA1Ni43OTMzIDEzMC4yNzAgNTAuOTQ2MyAxMjcuNzY0IDQ1LjUxNjlDMTE1Ljg2MSA0Ni41NjEwIDk2LjY0OTIgNDcuMTg3NCA4NS43OTA0IDQyLjgwMjFDNjkuMjkzNCAzNS45MTEwIDU4LjQzNDYgOC4xMzc1NCAzOC4zODc1IDE4LjM2OTlDMjAuNjM3NSAyOS40Mzc1IDguOTQzNDEgNDguODU4MCA4Ljk0MzQxIDcxLjQxMDlDOC45NDM0MSA3Ny4yNTgwIDkuNzc4NjggODIuODk2MiAxMS4yNDA0IDg4LjExNjhDMjEuMDU1MSA3OS4zNDYyIDQxLjcyODcgNjIuODQ5MiA2MC4zMTQwIDU3LjgzNzRDODUuMzcyOCA1MS4xNTUxIDg3LjA0MzQgNjYuNjA4MCAxMDcuNzE3IDY3Ljg2MDlaIiBmaWxsPSIjMjM5MkNDIi8+PHBhdGggZD0iTTEzMi43NzcgNjMuMjY2N0MxMjYuMDk1IDY2LjE5MDIgMTE3LjMyNCA2OC40ODcyIDEwNy43MTggNjguMDY5NkM4Ny4wNDQ3IDY2LjgxNjcgODUuMzc0MiA1MS4xNTQ5IDYwLjEwNjUgNTguMDQ2MUM0MS43MzAwIDYzLjA1NzkgMjEuMDU2NSA3OS43NjM3IDExLjAzMzAgODguMzI1NUMxMy4xMjEyIDk1LjQyNTUgMTYuMjUzNiAxMDIuMTA4IDIwLjYzODkgMTA4LjE2NEMyNy4zMjEyIDEwMi41MjUgMzUuNDY1MyA5Ny4zMDQ5IDQ0LjQ0NDcgOTUuNDI1NUM3MC4xMzAwIDg5Ljk5NjAgNzAuMTMwMCAxMDguMzcyIDkxLjg0NzcgMTA1Ljg2N0MxMDMuNzUxIDEwNC40MDUgMTIwLjAzOSA5Mi45MTk2IDEzMi4zNTkgODIuODk2MUMxMzIuOTg2IDc5LjM0NjEgMTMzLjQwNCA3NS41ODczIDEzMy40MDQgNzEuODI4NEMxMzMuNDA0IDY4LjY5NjEgMTMzLjE5NSA2NS45ODE0IDEzMi43NzcgNjMuMjY2N1oiIGZpbGw9IiMzMzUxOUYiLz48cGF0aCBkPSJNNDQuNDQ0MyA5NS4yMTY0QzM1LjQ2NDkgOTcuMDk1OCAyNy4zMjA4IDEwMi4zMTYgMjAuNjM4NCAxMDcuOTU1QzMxLjkxNDkgMTIzLjYxNiA1MC4yOTEzIDEzMy44NDkgNzEuMTczNyAxMzMuODQ5QzEwMS44NzEgMTMzLjg0OSAxMjcuMTM4IDExMS43MTMgMTMyLjM1OSA4Mi42ODcwQzEyMC4wMzggOTIuNzEwNiAxMDMuNzUwIDEwNC4xOTYgOTEuODQ3MiAxMDUuNjU4QzcwLjEyOTYgMTA4LjE2MyA3MC4yMjk2IDkwLjU3ODIgNDQuNDQ0MyA5NS4yMTY0WiIgZmlsbD0iIzFCM0I2QyIvPjxwYXRoIGQ9Ik05Ny4yNzcxIDgzLjEwNDdDOTkuNzgzMCA4OS4zNjk0IDk3LjQ4NTkgOTYuMjYwNiA5MS42Mzg5IDk4Ljc2NjVDODYuMDAwNyAxMDEuMDY0IDc5LjMxODQgOTcuOTMxMSA3Ni42MDM3IDkxLjg3NTJDNzQuMDk3OCA4NS42MTA1IDc2LjM5NDggNzguNzE5NCA4Mi4yNDE5IDc2LjIxMzVDODguMDg4OSA3My43MDc2IDk0Ljc3MTIgNzYuODQwMCA5Ny4yNzcxIDgzLjEwNDdaIiBmaWxsPSIjMUIzQjZDIi8+PC9zdmc+)](https://rateyourmusic.com/~deathrashed)
+[![Monochrome.tf](https://img.shields.io/badge/Monochrome.tf-%23222222.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMTQuNzUgMTQuNzUgNzAuNSA3MC41IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJtMzguMjUgMTQuNzVoNDd2NDdoLTIzLjV2LTIzLjVoLTIzLjV6bS0yMy41IDIzLjVoMjMuNXYyMy41aDIzLjV2MjMuNWgtNDd6Ii8+PC9zdmc+)](https://monochrome.tf/user/@riley.mp3)
+
+[![Last.fm](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=last.fm&logoColor=D51007&labelColor=1e1e1e&color=1e1e1e&label=Last.fm&query=%24.recenttracks.%40attr.total&url=https%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.getrecenttracks%26user%3Ddeathrashed%26api_key%3D5767c7b3a56fe504b8e54206dda30b31%26format%3Djson&suffix=%20Scrobbles)](https://www.last.fm/user/deathrashed)
+
+<details>
+<summary><strong></strong></summary>
+
+<img width="1280" height="" alt="rileys-environment-stack" src="https://github.com/user-attachments/assets/20f6346f-c76a-4bb4-8e77-723b43f8ebe2" />
+
+</details>
+
+
