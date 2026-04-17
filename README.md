@@ -1,9 +1,12 @@
 
-
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&height=90&color=181818&section=header&textBg=false&reversal=false&fontAlignY=100&fontAlign=100&descAlignY=100&descAlign=100)
-
+  
+<img width="324" height="324" alt="dog-cachorro-ezgif com-optimize" src="https://github.com/user-attachments/assets/54eebc32-2bc2-49f2-acd3-8e1b637e7411" />
+<br>
+ 
+ ⋅⋅⋅
+ 
+ ![Header](https://capsule-render.vercel.app/api?type=waving&height=90&color=181818&section=footer&textBg=false&reversal=true&fontAlignY=100&fontAlign=100&descAlignY=100&descAlign=100)
 
 [![Linktree](https://img.shields.io/badge/LinkTree-1e1e1e?style=for-the-badge&logo=linktree&logoColor=44E660)](https://linktr.ee/deathrashed)
 [![YouTube](https://img.shields.io/badge/YouTube-1e1e1e?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@dethrashed)
@@ -32,7 +35,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1290812415&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1e1e1e&interchange=false&profanity=false&mode=dark&bar_color=1cba55&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1290812415&redirect=true)
 
-<img width="340" height="" alt="dog-cachorro" src="https://github.com/user-attachments/assets/856e1d8b-2d40-4fc7-b830-5b27e4b41396" />
+
 
 <details>
 <summary><strong> 
@@ -45,6 +48,8 @@
 
 <img width="1280" height="" alt="rileys-environment-stack" src="https://github.com/user-attachments/assets/20f6346f-c76a-4bb4-8e77-723b43f8ebe2" />
 
+
+
 </details>
 
-![Footer](https://capsule-render.vercel.app/api?type=venom&height=200&color=181818&text=☢︎&section=header&fontSize=125&textBg=false&fontColor=FFD846&stroke=1e1e1e&strokeWidth=2&reversal=false&fontAlignY=51)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=90&color=181818&section=header&textBg=false&reversal=true&fontAlignY=100&fontAlign=100&descAlignY=100&descAlign=100)
