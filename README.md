@@ -1,10 +1,11 @@
 <div align="center">
 
 
-<img width="324" height="324" alt="dog-cachorro-ezgif com-optimize" src="https://github.com/user-attachments/assets/90cc5eb1-c6d3-4486-8f66-d256ffb012e3" />
+<img width="324" height="324" alt="dog-cachorro" src="https://github.com/user-attachments/assets/856e1d8b-2d40-4fc7-b830-5b27e4b41396" />
 
 
----
+
+
 
 [![YouTube](https://img.shields.io/badge/YouTube-1e1e1e?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@dethrashed)
 [![Instagram](https://img.shields.io/badge/Instagram-1e1e1e?style=for-the-badge&logo=Instagram&logoColor=FC0177)](https://www.instagram.com/deathrashed)
@@ -23,7 +24,7 @@
 
 [![Last.fm](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=last.fm&logoColor=D51007&labelColor=1e1e1e&color=1e1e1e&label=Last.fm&query=%24.recenttracks.%40attr.total&url=https%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.getrecenttracks%26user%3Ddeathrashed%26api_key%3D5767c7b3a56fe504b8e54206dda30b31%26format%3Djson&suffix=%20Scrobbles)](https://www.last.fm/user/deathrashed)
 
----
+
 
 <details>
 <summary><strong></strong></summary>
