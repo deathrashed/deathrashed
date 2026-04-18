@@ -1,0 +1,77 @@
+<svg viewBox="0 0 650 100" width="650" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e1e1e">
+        <animate attributeName="stop-color" values="#1e1e1e; #ffc903; #1e1e1e" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#ffc903">
+        <animate attributeName="stop-color" values="#ffc903; #1e1e1e; #ffc903" dur="3s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <symbol id="nuke-icon" viewBox="0 0 122.88 122.88">
+      <path d="M61.44,0A61.46,61.46,0,1,1,18,18,61.21,61.21,0,0,1,61.44,0Z" fill="#000000"/>
+      <path d="M61.44,6.67A54.77,54.77,0,1,1,6.67,61.44,54.77,54.77,0,0,1,61.44,6.67Z" fill="#ffc903"/>
+      <path d="M61.5,53.07a8.95,8.95,0,1,1-9,8.94,8.95,8.95,0,0,1,9-8.94Z" fill-rule="evenodd" fill="#000000"/>
+      <path d="M15.17,61.89C16,44.64,23.59,31.13,38.4,21.68L54.68,50.34c-3.85,2.16-6.09,6-6.68,11.55Z" fill-rule="evenodd" fill="#000000"/>
+      <path d="M84.63,21.46c14.5,9.38,22.42,22.67,23.2,40.23l-33-.24c0-4.41-2.15-8.27-6.66-11.55L84.63,21.46Z" fill-rule="evenodd" fill="#000000"/>
+      <path d="M84.87,101.71c-15.36,7.88-30.84,8.09-46.43,0L55.12,73.27c3.79,2.25,8.24,2.27,13.34,0l16.41,28.43Z" fill-rule="evenodd" fill="#000000"/>
+    </symbol>
+
+    <style>
+      .title {
+        font-family: 'JetBrains Mono', 'IosevkaMono', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+        font-size: 50px;
+        font-weight: 900;
+        letter-spacing: -0.05em;
+        text-anchor: middle;
+        fill: url(#gradient);
+      }
+    </style>
+  </defs>
+
+  <text x="50%" y="50%" dy=".35em" class="title">deathrashed</text>
+
+  <g class="snowflakes">
+    <use href="#nuke-icon" width="15" height="15">
+        <animateTransform attributeName="transform" type="translate" values="10 -25; 10 125" dur="10s" begin="0s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 80 0; 0 0" dur="3s" begin="0s" repeatCount="indefinite"/>
+    </use>
+    <use href="#nuke-icon" width="15" height="15">
+        <animateTransform attributeName="transform" type="translate" values="70 -25; 70 125" dur="10s" begin="1s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 80 0; 0 0" dur="3s" begin="1s" repeatCount="indefinite"/>
+    </use>
+    <use href="#nuke-icon" width="15" height="15">
+        <animateTransform attributeName="transform" type="translate" values="130 -25; 130 125" dur="10s" begin="6s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 80 0; 0 0" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+    </use>
+    <use href="#nuke-icon" width="15" height="15">
+        <animateTransform attributeName="transform" type="translate" values="195 -25; 195 125" dur="10s" begin="4s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 80 0; 0 0" dur="3s" begin="2s" repeatCount="indefinite"/>
+    </use>
+    <use href="#nuke-icon" width="15" height="15">
+        <animateTransform attributeName="transform" type="translate" values="260 -25; 260 125" dur="10s" begin="2s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 80 0; 0 0" dur="3s" begin="2s" repeatCount="indefinite"/>
+    </use>
+    <use href="#nuke-icon" width="15" height="15">
+        <animateTransform attributeName="transform" type="translate" values="325 -25; 325 125" dur="10s" begin="8s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 80 0; 0 0" dur="3s" begin="3s" repeatCount="indefinite"/>
+    </use>
+    <use href="#nuke-icon" width="15" height="15">
+        <animateTransform attributeName="transform" type="translate" values="390 -25; 390 125" dur="10s" begin="6s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 80 0; 0 0" dur="3s" begin="2s" repeatCount="indefinite"/>
+    </use>
+    <use href="#nuke-icon" width="15" height="15">
+        <animateTransform attributeName="transform" type="translate" values="455 -25; 455 125" dur="10s" begin="2.5s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 80 0; 0 0" dur="3s" begin="1s" repeatCount="indefinite"/>
+    </use>
+    <use href="#nuke-icon" width="15" height="15">
+        <animateTransform attributeName="transform" type="translate" values="520 -25; 520 125" dur="10s" begin="1s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 80 0; 0 0" dur="3s" begin="0s" repeatCount="indefinite"/>
+    </use>
+    <use href="#nuke-icon" width="15" height="15">
+        <animateTransform attributeName="transform" type="translate" values="585 -25; 585 125" dur="10s" begin="3s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 80 0; 0 0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    </use>
+  </g>
+</svg>
