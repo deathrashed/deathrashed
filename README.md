@@ -1,7 +1,5 @@
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/deathrashed/deathrashed/refs/heads/main/deathrashed.svg" alt="deathrashed" />
-</h1>
+
 
 <div align="center">
   
@@ -10,6 +8,11 @@
  
  ⋅⋅⋅
  
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/deathrashed/deathrashed/refs/heads/main/deathrashed.svg" alt="deathrashed" />
+</h1>
+
+[![GitHub](https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=GitHub&logoColor=661994)](https://github.com/deathrashed)
 [![YouTube](https://img.shields.io/badge/YouTube-1e1e1e?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@dethrashed)
 [![Instagram](https://img.shields.io/badge/Instagram-1e1e1e?style=for-the-badge&logo=Instagram&logoColor=FC0177)](https://www.instagram.com/deathrashed)
 [![Facebook](https://img.shields.io/badge/Facebook-1e1e1e?style=for-the-badge&logo=Facebook&logoColor=1877F2)](https://www.facebook.com/rileydethrash)
