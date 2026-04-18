@@ -2,12 +2,7 @@
 
 
 <div align="center">
-  
-<img width="324" height="324" alt="dog-cachorro-ezgif com-optimize" src="https://github.com/user-attachments/assets/54eebc32-2bc2-49f2-acd3-8e1b637e7411" />
-<br>
- 
- ⋅⋅⋅
- 
+   
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/deathrashed/deathrashed/refs/heads/main/deathrashed.svg" alt="deathrashed" />
 </h1>
@@ -33,14 +28,23 @@
 [![Scrobbles](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=audiomack&logoColor=E8FF00&label=&labelColor=1e1e1e&color=1e1e1e&query=%24.recenttracks.%40attr.total&url=https%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.getrecenttracks%26user%3Ddeathrashed%26api_key%3D5767c7b3a56fe504b8e54206dda30b31%26format%3Djson&suffix=%20Scrobbled)](https://www.last.fm/user/deathrashed/library/artists)
 [![Spotify](https://img.shields.io/badge/Spotify-1e1e1e?style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/1290812415?si=dbaba333c6304726)
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=90&color=ffc903&section=footer&textBg=false&reversal=true&fontAlignY=100&fontAlign=100&descAlignY=100&descAlign=100)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1290812415&count=10&width=850)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1290812415&count=5&width=850)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=90&color=ffc903&section=header&textBg=false&reversal=true&fontAlignY=100&fontAlign=100&descAlignY=100&descAlign=100)
+
+⋅⋅⋅
+
+<br>
+
+<img width="324" height="324" alt="dog-cachorro-ezgif com-optimize" src="https://github.com/user-attachments/assets/54eebc32-2bc2-49f2-acd3-8e1b637e7411" />
+
+<br>
 
 <details>
 <summary><strong> 
  
 </strong></summary>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1290812415&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1e1e1e&interchange=false&profanity=false&mode=dark&bar_color=1cba55&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1290812415&redirect=true)
+<img width="850" height="" alt="rileys-environment-stack" src="https://github.com/user-attachments/assets/88586d88-5f67-4f32-96a6-c9fc86bea372" />
+                   
 
 </details>
